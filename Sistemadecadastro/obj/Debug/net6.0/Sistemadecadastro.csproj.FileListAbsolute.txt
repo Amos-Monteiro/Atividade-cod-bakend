@@ -1,0 +1,15 @@
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\bin\Debug\net6.0\Sistemadecadastro.exe
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\bin\Debug\net6.0\Sistemadecadastro.deps.json
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\bin\Debug\net6.0\Sistemadecadastro.runtimeconfig.json
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\bin\Debug\net6.0\Sistemadecadastro.dll
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\bin\Debug\net6.0\Sistemadecadastro.pdb
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\obj\Debug\net6.0\Sistemadecadastro.csproj.AssemblyReference.cache
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\obj\Debug\net6.0\Sistemadecadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\obj\Debug\net6.0\Sistemadecadastro.AssemblyInfoInputs.cache
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\obj\Debug\net6.0\Sistemadecadastro.AssemblyInfo.cs
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\obj\Debug\net6.0\Sistemadecadastro.csproj.CoreCompileInputs.cache
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\obj\Debug\net6.0\Sistemadecadastro.dll
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\obj\Debug\net6.0\refint\Sistemadecadastro.dll
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\obj\Debug\net6.0\Sistemadecadastro.pdb
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\obj\Debug\net6.0\Sistemadecadastro.genruntimeconfig.cache
+C:\Users\amos2\OneDrive\Área de Trabalho\senai Back-end code\sistema de cadastro\Sistemadecadastro\obj\Debug\net6.0\ref\Sistemadecadastro.dll
